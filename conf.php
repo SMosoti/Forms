@@ -1,7 +1,7 @@
 <?php 
 
-$conf['site_name'] = "BBIT DevOps";
-$conf['site_url'] = "info@bbit.edu";
+$conf['site_name'] = "Pattern Press";
+$conf['site_url'] = "www.patternpress.com";
 $conf['admin_email'] = "http://localhost/pro/";
 
 //site language

@@ -1,13 +1,15 @@
 <?php
 class layouts {
     public function heading() {
-        echo "Welcome  to BBIT DevOps.";
+        echo "Welcome to Pattern Press community";
     }
+    
+
     public function myMethod() {
-        echo "Hello, World!";
+        echo "Hello there";
     }
     public function footer() {
-        echo "Thank you for visiting BBIT DevOps.";
-        echo "<footer>Contact us at <a href='mailto:info@bbitdevops.com'>info@bbitdevops.com</a>.</footer>";
+        echo "Thank you for applying for our upcoming closed-door roundtable event.";
+        echo "<footer>Contact us at <a href='mailto:info@patternpress.com'>info@patternpress.com</a>.</footer>";
     }
 }

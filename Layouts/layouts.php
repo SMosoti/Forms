@@ -4,7 +4,7 @@ class layouts {
         echo "Welcome  to " . $conf['site_name'] . "!";
     }
     public function welcome() {
-        echo "This is a new semester";
+        echo "<h2>Welcome to our website. We are glad to have you here.</h2>";
     }
     public function footer($conf) {
 

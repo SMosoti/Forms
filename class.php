@@ -1,12 +1,10 @@
 <?php
-require_once 'class2.php';
-require_once 'forms.php';
+require_once 'C:/Apache24/htdocs/pro/class2.php';
+require_once 'C:/Apache24/htdocs/pro/Forms/forms.php';
 
 
-//create an instance of MyClass
-$instance = new MyClass();
-//call the myMethod function
-$instance->heading();
+
+
 $instance->myMethod();
 
 //call sign up form
